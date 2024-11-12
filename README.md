@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hello! 👋
 
+## Who am I:
+I am a Civil Engineer born in the late 80s and I work as a teacher in an university.
+
+## Interests:
+- Programming in general;
+- I grew up playing videogames, so I have a dream of making a videogame.
+
+## Programming languages
+Nowadays I focus mainly on Godot, but I know Python and some C++.
 <!--
 **smithofpaws/smithofpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
